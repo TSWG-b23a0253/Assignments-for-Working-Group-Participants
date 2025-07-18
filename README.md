@@ -137,3 +137,18 @@
 | **ソースコード**     | 実装したコード       |
 | **単体テスト仕様書** | モジュール単位のテスト仕様 |
 | **単体テスト結果報告書** | 実施結果          |
+
+</br></br>
+
+## 7. フォルダ構成例
+
+```
+📂 my-project/
+ ├── README.md  # プロジェクト概要
+ ├── docs/
+ │    ├── basic-design.md   # 基本設計書
+ │    ├── detail-design.md  # 詳細設計書
+ │    ├── db-design.md      # DB設計書
+ │    ├── api-spec.md       # API仕様
+ │    └── architecture.md   # システム構成図
+```
